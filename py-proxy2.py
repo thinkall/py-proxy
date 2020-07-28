@@ -9,6 +9,7 @@ function:
 description:
     proxy server based on python3
     need tcp connection support
+    support only http
 END
 """
 
